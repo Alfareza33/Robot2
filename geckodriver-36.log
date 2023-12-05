@@ -1,0 +1,17 @@
+1701765089323	geckodriver	INFO	Listening on 127.0.0.1:60688
+1701765092361	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60689" "--remote ... no-remote" "-profile" "c:\\Users\\muhammad.mahendra\\AppData\\Local\\robocorp\\temp\\da38ee5e36b6c5a4\\rust_mozprofile54Rwui"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701765092795	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701765092900	Marionette	INFO	Listening on port 60698
+Read port: 60698
+WebDriver BiDi listening on ws://127.0.0.1:60689
+1701765093040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+DevTools listening on ws://127.0.0.1:60689/devtools/browser/ee8faef2-6a4f-4f22-a769-49fe3887c682
+1701765095689	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1701765098394	Marionette	INFO	Stopped listening on port 60698
+Dynamically enable window occlusion 1
